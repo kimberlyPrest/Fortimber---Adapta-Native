@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "fortimber-project-manifest/v1",
+  "project": "Fortimber — Adapta Native",
+  "currentPhase": 1,
+  "createdAt": "2026-10-12",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "44f0ad81f41b6db15d4a01acf3cf70e1c75d2995c52fa264e5e72ac106ad38c2"
+    },
+    {
+      "path": "AGENTS.md",
+      "sha256": "b2a65278835a10966235a693d7aac769230a981c0efcc1e1bc77838567279c5c"
+    },
+    {
+      "path": "STATUS.md",
+      "sha256": "ea752b432e853666272f2a8620142d9c7f99441ad2a6b4d08d6fb0da23fc3b6a"
+    },
+    {
+      "path": "changelog.md",
+      "sha256": "76e99c38947e5b04e85a57e0b10806e05bd565f214f705ebb521d02027d7a53c"
+    },
+    {
+      "path": "01_projeto/02-Escopo-Definitivo.md",
+      "sha256": "cd9cb268c697c0e2746f21758f2e22355061a6ab7db2c36f6ab75244d498f894"
+    },
+    {
+      "path": "04_fase-atual/fase.md",
+      "sha256": "47d0744e440ee35369b85468006261b6cb27dff0162378cfc7f4ae431611db06"
+    },
+    {
+      "path": "04_fase-atual/specs/00-INDICE.md",
+      "sha256": "7d35b3cb8396f5e7bafe4ed7f3def5983ab6305b72babf4ac8a14fe44d70ba67"
+    },
+    {
+      "path": "04_fase-atual/specs/SPEC-F1-01-contrato-de-dados-e-saldo.md",
+      "sha256": "ba04c4a2fa2da3bb3d508451ed3defc94da85798867848a8cf10c1f9928bb4a5"
+    },
+    {
+      "path": "04_fase-atual/specs/SPEC-F1-02-carga-piloto-e-proveniencia.md",
+      "sha256": "07bd478320b5a0e2a7fe8b12b4cc90c4938232400eb132afdd1828323fb801b9"
+    },
+    {
+      "path": "04_fase-atual/specs/SPEC-F1-03-painel-e-detalhe-de-contratos.md",
+      "sha256": "d97eea5c5eed66b9e46fea539b274069b750e80a98dbeccc766fc074e84aeef5"
+    },
+    {
+      "path": "04_fase-atual/specs/SPEC-F1-04-acesso-seguranca-e-aceite.md",
+      "sha256": "5727cb9f8fbe017c090c1ee53762b3729cf127950d2a165afbf641c8380c87b6"
+    }
+  ]
+}

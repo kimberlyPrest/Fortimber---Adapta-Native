@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "adapta-phase-closure/v1",
+  "phase": 1,
+  "closedAt": "2026-10-19T14:33:44.008Z",
+  "activeDigest": "55f135a199e88ded36810020c5eebaa0e96cb45350644170f1024989cad4e1fb",
+  "files": [
+    {
+      "relative": "fase.md",
+      "sha256": "47d0744e440ee35369b85468006261b6cb27dff0162378cfc7f4ae431611db06"
+    },
+    {
+      "relative": "specs/00-INDICE.md",
+      "sha256": "7d35b3cb8396f5e7bafe4ed7f3def5983ab6305b72babf4ac8a14fe44d70ba67"
+    },
+    {
+      "relative": "specs/SPEC-F1-01-contrato-de-dados-e-saldo.md",
+      "sha256": "ba04c4a2fa2da3bb3d508451ed3defc94da85798867848a8cf10c1f9928bb4a5"
+    },
+    {
+      "relative": "specs/SPEC-F1-02-carga-piloto-e-proveniencia.md",
+      "sha256": "07bd478320b5a0e2a7fe8b12b4cc90c4938232400eb132afdd1828323fb801b9"
+    },
+    {
+      "relative": "specs/SPEC-F1-03-painel-e-detalhe-de-contratos.md",
+      "sha256": "d97eea5c5eed66b9e46fea539b274069b750e80a98dbeccc766fc074e84aeef5"
+    },
+    {
+      "relative": "specs/SPEC-F1-04-acesso-seguranca-e-aceite.md",
+      "sha256": "5727cb9f8fbe017c090c1ee53762b3729cf127950d2a165afbf641c8380c87b6"
+    }
+  ],
+  "checkSha256": "81cc77a8d41d3ab2cb3b2b2e9cb7918191dc01c83c603635a821b9763a39d0fc",
+  "manifestDrift": []
+}
